@@ -1,5 +1,5 @@
 a=int(input("Enter first number: "))
-o=input("Enter operation: ")
+o=input("Enter the operation: ")
 b=int(input("Enter second number: "))
 
 print("Answer = ",end=' ')
